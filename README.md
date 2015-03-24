@@ -11,4 +11,4 @@ http://nodeschool.io/Lahore/
 
 ## Events ##
 
-We're planning an event in February 2015, and we'll keep you updated!
+We're planning an event in May 2015, and we'll keep you updated!
