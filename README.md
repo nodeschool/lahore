@@ -2,6 +2,8 @@ Lahore
 =======
 
 The NodeSchool chapter for Lahore, Pakistan.
+Take a look at our website
+http://nodeschool.io/Lahore/
 
 ## Contact ##
 
