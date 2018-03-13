@@ -24,7 +24,7 @@ us using one of the following mediums:
 
 
 
-  [1]: http://nodeschool.io/Lahore/
+  [1]: http://nodeschool.io/lahore/
   [2]: assets/logo.png
   [3]: https://badges.gitter.im/nodeschool/bristol.png
   [4]: https://gitter.im/nodeschool/Lahore
