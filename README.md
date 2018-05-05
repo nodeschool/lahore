@@ -13,7 +13,7 @@ We utilize [GitHub Issues](https://github.com/nodeschool/lahore/issues) like a m
 ## Team
 
   - Waleed Ashraf ([Twitter](https://twitter.com/waleedashraf01/), [Email](mailto:hy@waleedashraf.me))
-  - Usman Tahire ([Twitter](https://twitter.com/usman_tahirr/), [Email](mailto:ch.usman.tahir@gmail.com))
+  - Usman Tahir ([Twitter](https://twitter.com/usman_tahirr/), [Email](mailto:ch.usman.tahir@gmail.com))
 
 -----
 
