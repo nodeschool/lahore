@@ -1,10 +1,11 @@
 {
-  "generatedAt": 1525535977030,
+  "generatedAt": 1525537762977,
   "nextEvent": {
-    "dayOfTheWeek": "Wednesday",
-    "date": "May 30th",
+    "dayOfTheWeek": "Saturday",
+    "date": "May 5th",
     "time": "2-3PM",
-    "address": "TBD TBD",
-    "addressUrlSafe": "TBD"
+    "address": "npm TBD",
+    "addressUrlSafe": "TBD",
+    "ticketsUrl": "https://www.eventbrite.com/e/123"
   }
 }
