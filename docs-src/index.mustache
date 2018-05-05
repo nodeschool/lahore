@@ -70,10 +70,10 @@
                   <strong class="strong--alt">When?</strong> {{dayOfTheWeek}}, {{date}} from {{time}}
                 </li>
                 <li class="next-event__info__item">
-                  <strong class="strong--alt">Where?</strong> {{address}} [<a href="http://maps.google.com/?q={{addressUrlSafe}}">map</a>]
+                  <strong class="strong--alt">Where?</strong> {{address}} {{#addressUrlSafe}}[<a href="http://maps.google.com/?q={{addressUrlSafe}}">map</a>]{{/addressUrlSafe}} {{^addressUrlSafe}} {{/addressUrlSafe}}
                 </li>
                 <li class="next-event__info__item">
-                  <strong class="strong--alt">What?</strong> Learning, mentoring, javascript bffs, and pizza 🍕
+                  <strong class="strong--alt">What?</strong> Learning, mentoring, javascript bffs
                 </li>
               </ul>
             </div>

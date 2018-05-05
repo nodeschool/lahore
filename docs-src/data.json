@@ -1,11 +1,11 @@
 {
-  "generatedAt": 1525537762977,
+  "generatedAt": 1525542115514,
   "nextEvent": {
     "dayOfTheWeek": "Saturday",
     "date": "May 5th",
     "time": "2-3PM",
-    "address": "npm TBD",
-    "addressUrlSafe": "TBD",
-    "ticketsUrl": "https://www.eventbrite.com/e/123"
+    "address": "TBD TBD",
+    "mentorsUrl": "https://nodeschool.io/lahore",
+    "ticketsUrl": "https://www.eventbrite.com/o/nodeschool-lahore-17129186812"
   }
 }
